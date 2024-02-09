@@ -7,7 +7,7 @@
 
 - Name-Project: [name](https://github.com/Decentralized-System/CDOF1-TD1/edit/main/README.md)
 - Quizz Game: [Lazare BORDEREAUX](https://github.com/lazbord/Quiz_Game_Bordereaux_Lazare_CDOF1)
-- Name-Project: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy_yamsi-cdof1)
+- Todo List: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy-yamsi-cdof1)
 - LACOUTIERE_Paul-Todo_list:[Lacoutiere_Paul](https://github.com/LacoutierePaul/Todo_list-Paul_Lacoutiere-CDOF1)
 - Quiz_Game_correia_alexandre: [Alexandre CORREIA](https://github.com/AlexandreCGithub/Quiz_Game-correia_alexandre-cdof1) 
 - MANTZ_Giacomo-Quizz : https://github.com/giaco944/QuizzGame-MANTZ-CCC2.git
@@ -31,3 +31,5 @@
 - Todo List Application Aline Wang OCC_1 : [WangAline](https://github.com/WangAline/Todo_List_Application-Aline_Wang-OCC_1)
 - Quizz Game: [Alexandre BERNARD](https://github.com/AlexandreBernard1/Quiz_game-BERNARD_Alexandre-CDOF1.git)
 - Quizz Game: [Théo BESSE](https://github.com/Theobse/Quiz_Game-Theo_Besse-CDOF1)
+- Quiz Game: [Khalil Hamrouni](https://github.com/k4365/quiz-hamrouni_khalil-1/blob/main/README.md)
+- To Do list: [Jérémy BEUGNON](https://github.com/itsj1/TodoList-Beugnon-CDOF1.git)
